@@ -1,0 +1,518 @@
+{
+    "status": 0,
+    "data": {
+        "films": [{
+                "filmId": 5859,
+                "name": "长津湖之水门桥",
+                "poster": "https://pic.maizuo.com/usr/movie/89689a6d36e155b697ed3e35a6c1da12.jpg",
+                "actors": [{
+                        "name": "易烊千玺",
+                        "role": "伍万里",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/f9b4b9f6f7564b4068aec8d37036459e.jpg"
+                    },
+                    {
+                        "name": "徐克",
+                        "role": "导演",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/167312fd73483b00efa169c29663d403.jpg"
+                    },
+                    {
+                        "name": "林超贤",
+                        "role": "导演",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/4033b234b72900ee8859fc739afe7e23.jpg"
+                    },
+                    {
+                        "name": "吴京",
+                        "role": "伍千里",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/0a8f4a063cce18afa5103a26577c452b.jpg"
+                    },
+                    {
+                        "name": "陈凯歌",
+                        "role": "导演",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/7c4f4a21c2bd1fea583c0abbb3e3a137.jpg"
+                    }
+                ],
+                "director": "陈凯歌|徐克|林超贤",
+                "category": "剧情|历史|战争",
+                "synopsis": "电影《长津湖之水门桥》以抗美援朝战争第二次战役中的长津湖战役为背景，讲述了在结束了新兴里和下碣隅里的战斗之后，七连战士们又接到了更艰巨的任务……",
+                "filmType": {
+                    "name": "4D",
+                    "value": 13
+                },
+                "nation": "中国大陆",
+                "language": "",
+                "videoId": "",
+                "premiereAt": 1643673600,
+                "timeType": 3,
+                "runtime": 149,
+                "grade": "7.4",
+                "item": {
+                    "name": "4D",
+                    "type": 13
+                },
+                "isPresale": true,
+                "isSale": false
+            },
+            {
+                "filmId": 5860,
+                "name": "这个杀手不太冷静",
+                "poster": "https://pic.maizuo.com/usr/movie/73bb5b7ec2d06f6961504807405094a5.jpg",
+                "actors": [{
+                        "name": "邢文雄",
+                        "role": "导演",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/590ce2cedad8f6e01b59de78b5ba17a2.jpg"
+                    },
+                    {
+                        "name": "马丽",
+                        "role": "米兰",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/db148a38e7f0ec4bad847e16fbccfb34.jpg"
+                    },
+                    {
+                        "name": "魏翔",
+                        "role": "魏成功",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/a980fe2fa21b31ac5e8b3e297139aafd.jpg"
+                    },
+                    {
+                        "name": "陈明昊",
+                        "role": "哈维",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/2b2b9fa4b410b26f2ce67b0b1386238d.jpg"
+                    },
+                    {
+                        "name": "周大勇",
+                        "role": "吉米",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/b717fc38a0116037534508331f4bb45d.jpg"
+                    }
+                ],
+                "director": "邢文雄",
+                "category": "喜剧",
+                "synopsis": "王牌喜剧班底，初一爆笑开年！《夏洛特烦恼》《西虹市首富》导演闫非、彭大魔监制，邢文雄执导，马丽、魏翔等喜剧人主演，携手打造爆笑“杀手奇遇”！小人物龙套演员魏成功（魏翔 饰）得到当红女星米兰（马丽 饰）“赏识”，被邀请出演男一号神秘杀手，却没想到这一切竟是一场危机四伏的“戏中戏”、“局中局”。被蒙在鼓里的魏成功数次凭借自己的演技和好运化险为夷，而这场阴谋却逐渐失控，残酷的真相也离他越来越近……",
+                "filmType": {
+                    "name": "4D",
+                    "value": 13
+                },
+                "nation": "中国大陆",
+                "language": "",
+                "videoId": "",
+                "premiereAt": 1643673600,
+                "timeType": 3,
+                "runtime": 109,
+                "grade": "7.7",
+                "item": {
+                    "name": "4D",
+                    "type": 13
+                },
+                "isPresale": true,
+                "isSale": false
+            },
+            {
+                "filmId": 5875,
+                "name": "花束般的恋爱",
+                "poster": "https://pic.maizuo.com/usr/movie/55b77dcb3f903dd09af06e6d22e7fdb7.jpg",
+                "actors": [{
+                        "name": "土井裕泰",
+                        "role": "导演",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/36c4684a0138303572af72776b45eb37.jpg"
+                    },
+                    {
+                        "name": "有村架纯",
+                        "role": "八谷娟",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/422182820f0193fc361b01dc753f175a.jpg"
+                    },
+                    {
+                        "name": "菅田将晖",
+                        "role": "山音麦",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/e6c13a4e8b15f5394086cb6f783327b8.jpg"
+                    },
+                    {
+                        "name": "细田佳央太",
+                        "role": "演员",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/568c3e2d19a4f2f60a66724fbb640cad.jpg"
+                    },
+                    {
+                        "name": "清原果耶",
+                        "role": "演员",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/289e370747d3b25c11011387a26ff9e2.jpg"
+                    }
+                ],
+                "director": "土井裕泰",
+                "category": "剧情|爱情",
+                "synopsis": "影片是《四重奏》导演土井裕泰，编剧坂元裕二的大银幕首部合作作品。故事讲述男女主人公因在东京明大前站错过末班电车而偶然相识，之后展开时代、时间、地点、全部的偶然都像命运一样同步的5年恋爱，展现了他们在既非大人也非孩童的时期里，迷茫前行的模样。",
+                "filmType": {
+                    "name": "2D",
+                    "value": 1
+                },
+                "nation": "日本",
+                "language": "",
+                "videoId": "",
+                "premiereAt": 1645488000,
+                "timeType": 3,
+                "runtime": 124,
+                "grade": "7.5",
+                "item": {
+                    "name": "2D",
+                    "type": 1
+                },
+                "isPresale": true,
+                "isSale": false
+            },
+            {
+                "filmId": 5872,
+                "name": "尼罗河上的惨案",
+                "poster": "https://pic.maizuo.com/usr/movie/ec4fb07f5e0a6b72037d33b6014d8ffc.jpg",
+                "actors": [{
+                        "name": "肯尼思·布拉纳",
+                        "role": "导演",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/44edc24d45c26376ca8e946fb5828333.jpg"
+                    },
+                    {
+                        "name": "汤姆·巴特曼",
+                        "role": "Bouc",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/9e69d4af2ebf778c94e72868034885ae.jpg"
+                    },
+                    {
+                        "name": "安妮特·贝宁",
+                        "role": "Euphemia",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/ea7f0764adb6dfb658f3c46c5bda06e4.jpg"
+                    },
+                    {
+                        "name": "肯尼思·布拉纳",
+                        "role": "Hercule Poirot",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/44edc24d45c26376ca8e946fb5828333.jpg"
+                    },
+                    {
+                        "name": "拉塞尔·布兰德",
+                        "role": "Dr Bessner",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/b44cbce24ee025edffc3607dca23fc6e.jpg"
+                    }
+                ],
+                "director": "肯尼思·布拉纳",
+                "category": "犯罪|剧情|悬疑",
+                "synopsis": "故事继续聚焦在上流社会的秘事，大侦探波洛（肯尼思·布拉纳饰）在埃及度假期间， 卷入到了一场危险的三角关系之中，他在察觉到这趟旅程中不寻常的味道之后，登上了那条驶往阴谋和死亡的船。",
+                "filmType": {
+                    "name": "2D",
+                    "value": 1
+                },
+                "nation": "英国",
+                "language": "",
+                "videoId": "",
+                "premiereAt": 1645228800,
+                "timeType": 3,
+                "runtime": 126,
+                "grade": "7.3",
+                "item": {
+                    "name": "2D",
+                    "type": 1
+                },
+                "isPresale": true,
+                "isSale": false
+            },
+            {
+                "filmId": 5863,
+                "name": "奇迹·笨小孩",
+                "poster": "https://pic.maizuo.com/usr/movie/018c6050116a425e3ac3fc027aef8fa9.jpg",
+                "actors": [{
+                        "name": "文牧野",
+                        "role": "导演",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/4abf287a8039680ff03ec75ac922359d.jpg"
+                    },
+                    {
+                        "name": "易烊千玺",
+                        "role": "景浩",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/f9b4b9f6f7564b4068aec8d37036459e.jpg"
+                    },
+                    {
+                        "name": "田雨",
+                        "role": "梁永诚",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/55f5ea531f795a29b2bdd5ca9903162f.jpg"
+                    },
+                    {
+                        "name": "陈哈琳",
+                        "role": "景彤",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/3a12edda80b0f7cfe534b2bddb6594d8.jpg"
+                    },
+                    {
+                        "name": "齐溪",
+                        "role": "汪春梅",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/7d6b88e5add76ee0c38e99ba488b5973.jpg"
+                    }
+                ],
+                "director": "文牧野",
+                "category": "剧情",
+                "synopsis": "二十岁的景浩（易烊千玺 饰）独自带着年幼的妹妹来到深圳生活，兄妹俩生活温馨却拮据。机缘巧合之下，景浩得到一个机会，本以为美好生活即将来临，却不料遭遇重创。在时间和金钱的双重压力下，毫无退路的景浩决定孤注一掷，而他陷入困境的平凡人生，又能否燃起希望的火花？电影《奇迹·笨小孩》是中宣部国家电影局 2021 年重点电影项目，也是 2021 年重点建党百年献礼片，描述十八大以后新时代年轻人在深圳创业的影片。",
+                "filmType": {
+                    "name": "2D",
+                    "value": 1
+                },
+                "nation": "中国大陆",
+                "language": "",
+                "videoId": "",
+                "premiereAt": 1643673600,
+                "timeType": 3,
+                "runtime": 106,
+                "grade": "7.5",
+                "item": {
+                    "name": "2D",
+                    "type": 1
+                },
+                "isPresale": true,
+                "isSale": false
+            },
+            {
+                "filmId": 5876,
+                "name": "纽约的一个雨天",
+                "poster": "https://pic.maizuo.com/usr/movie/96fd965aed427a3cf14326457f3d5b95.jpg",
+                "actors": [{
+                        "name": "伍迪·艾伦",
+                        "role": "导演",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/7ff71415c6a787d7adcf5bf739129912.jpg"
+                    },
+                    {
+                        "name": "提莫西·查拉梅",
+                        "role": "Gatsby Welles",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/bc0e008858a569c5bde60b4fc78717f3.jpg"
+                    },
+                    {
+                        "name": "艾丽·范宁",
+                        "role": "Ashleigh Enright",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/f33849c95bf4f80b2675c972e5eee1d2.jpg"
+                    },
+                    {
+                        "name": "赛琳娜·戈麦斯",
+                        "role": "Chan Tyrell",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/fdb7244d7acd3ebd00ada41077b599c9.jpg"
+                    },
+                    {
+                        "name": "裘德·洛",
+                        "role": "Ted Davidoff",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/36153b8976833af21d0b98f6ff162bbd.jpg"
+                    }
+                ],
+                "director": "伍迪·艾伦",
+                "category": "爱情|剧情",
+                "synopsis": "年轻情侣盖茨比（提莫西·查拉梅 饰）与艾什莉（艾丽·范宁 饰）来到纽约曼哈顿共度周末，却阴差阳错开始了各自的行程。盖茨比在与女演员茜（赛琳娜·戈麦斯 饰）的热吻中意乱情迷，艾什莉则在多款男神的热辣眼神中沦陷。文艺少男的躁动与甜心少女的迷乱，分别在这个下雨天的城市里谱写着耐人寻味的浪漫。",
+                "filmType": {
+                    "name": "2D",
+                    "value": 1
+                },
+                "nation": "美国",
+                "language": "",
+                "videoId": "",
+                "premiereAt": 1645747200,
+                "timeType": 3,
+                "runtime": 92,
+                "grade": "7.5",
+                "item": {
+                    "name": "2D",
+                    "type": 1
+                },
+                "isPresale": true,
+                "isSale": false
+            },
+            {
+                "filmId": 5591,
+                "name": "狙击手",
+                "poster": "https://pic.maizuo.com/usr/movie/d57bd15062c75e36fc6e23df74d7e1ef.jpg",
+                "actors": [{
+                        "name": "张艺谋",
+                        "role": "导演",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/59857ef5e898298dc244fbce26cce81a.jpg"
+                    },
+                    {
+                        "name": "张末",
+                        "role": "导演",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/0f6bb44011715fc9ad4e99321cf396ea.jpg"
+                    },
+                    {
+                        "name": "陈永胜",
+                        "role": "大永",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/d0836d15a8d141d567ca63a7b41cd5be.jpg"
+                    },
+                    {
+                        "name": "章宇",
+                        "role": "刘文武",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/0c41c7945bb3799b9ea983c748bd7358.jpg"
+                    },
+                    {
+                        "name": "刘奕铁",
+                        "role": "亮亮",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/462696a745e3db65c89821520fe87dd9.jpg"
+                    }
+                ],
+                "director": "张艺谋|张末",
+                "category": "剧情|战争|历史",
+                "synopsis": "影片根据抗美援朝战争“冷枪冷炮”运动中神枪手群体事迹改编。1952年冬至1953年初，中国人民志愿军与联合国军在朝鲜战场形成僵持，双方发起了低强度的密集狙击战，史称\\\\\"冷枪冷炮运动\\\\\"。在连长（张译 饰）带领下的狙击五班战士枪法过人，成为敌军的心头大患，班长刘文武（章宇 饰）更成为重点狙击对象。为重创狙击五班，敌方调配精英狙击小队，配以最先进的武器装备，更迫使狙击五班战士大永（陈永胜 饰）等人为救同伴进入其设好的险境之地。但正当敌军打响自己如意算盘之时，他们未料到，被他们当作诱饵的侦察兵亮亮（刘奕铁 饰）身上其实隐藏着更大的秘密......",
+                "filmType": {
+                    "name": "4D",
+                    "value": 13
+                },
+                "nation": "中国大陆",
+                "language": "",
+                "videoId": "",
+                "premiereAt": 1643673600,
+                "timeType": 3,
+                "runtime": 96,
+                "grade": "7.4",
+                "item": {
+                    "name": "4D",
+                    "type": 13
+                },
+                "isPresale": true,
+                "isSale": false
+            },
+            {
+                "filmId": 5879,
+                "name": "我心飞扬",
+                "poster": "https://pic.maizuo.com/usr/movie/b0907b4e4e6b8a3b47366ce2f1095071.jpg",
+                "actors": [{
+                        "name": "王放放",
+                        "role": "导演",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/a9079091ada2af2058da5693cabcfbf9.jpg"
+                    },
+                    {
+                        "name": "孟美岐",
+                        "role": "杨帆",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/edc03e0a266b3bf7db35fe537fd302e6.jpg"
+                    },
+                    {
+                        "name": "夏雨",
+                        "role": "秦杉",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/547d6fb33c690b7a97959156580c3fb5.jpg"
+                    },
+                    {
+                        "name": "萨日娜",
+                        "role": "演员",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/55130881f9cc37f68a3d14277b4c7245.jpg"
+                    },
+                    {
+                        "name": "梁文慧",
+                        "role": "演员",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/bb1aeb8f5b8fc78c7b4de52fa215fb5e.jpg"
+                    }
+                ],
+                "director": "王放放",
+                "category": "剧情",
+                "synopsis": "电影《我心飞扬》灵感源自中国冬奥金牌零的突破，讲述冬奥健儿拼搏进取、为国争光的故事。1980年中国代表团开始参加冬奥会，屡次与金牌失之交臂，失败与不甘像针一样狠狠刺痛中国人的心。为实现零的突破，秦杉组建以杨帆为代表的中国短道速滑国家队，临危受命立志一雪前耻。两人向金牌发起冲击，师徒关系也面临着激烈的碰撞和重重考验……",
+                "filmType": {
+                    "name": "2D",
+                    "value": 1
+                },
+                "nation": "中国大陆",
+                "language": "",
+                "videoId": "",
+                "premiereAt": 1645747200,
+                "timeType": 3,
+                "runtime": 104,
+                "grade": "7.1",
+                "item": {
+                    "name": "2D",
+                    "type": 1
+                },
+                "isPresale": true,
+                "isSale": false
+            },
+            {
+                "filmId": 5877,
+                "name": "你是我的一束光",
+                "poster": "https://pic.maizuo.com/usr/movie/63cdf1f1b46b2fba4b06beacaad512ab.jpg",
+                "actors": [{
+                        "name": "王强",
+                        "role": "导演",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/356f8581fdda097d4527ae39abe44d79.jpg"
+                    },
+                    {
+                        "name": "袁文康",
+                        "role": "演员",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/750fea5724425c844eb593d63debeb61.jpg"
+                    },
+                    {
+                        "name": "王西",
+                        "role": "演员",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/c1e9775f93f5c20af45c7b540990d51d.jpg"
+                    },
+                    {
+                        "name": "邓超",
+                        "role": "演员",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/a91a7994a4fc9529a164f476242ed7c4.jpg"
+                    },
+                    {
+                        "name": "蒙亭宜",
+                        "role": "演员",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/08512348edc6ab79db2fc44710e0e35c.jpg"
+                    }
+                ],
+                "director": "王强",
+                "category": "爱情|音乐",
+                "synopsis": "一位用生命守护群众的逆行者，一段不平凡而又揪心的爱情故事。职场、情场都失意的音乐人穆随心（袁文康 饰）驱车前往云南，偶遇单亲妈妈彭彭（王西 饰），二人感情逐渐升温，发现了彼此身上的亮光，也触摸到了内心最深处的秘密伤口，彭彭内心深处无法走出的有关孙雨桐（邓超 饰）的心结也因此慢慢解开······",
+                "filmType": {
+                    "name": "2D",
+                    "value": 1
+                },
+                "nation": "中国大陆",
+                "language": "",
+                "videoId": "",
+                "premiereAt": 1645747200,
+                "timeType": 3,
+                "runtime": 106,
+                "grade": "7.9",
+                "item": {
+                    "name": "2D",
+                    "type": 1
+                },
+                "isPresale": true,
+                "isSale": false
+            },
+            {
+                "filmId": 5865,
+                "name": "我们的冬奥",
+                "poster": "https://pic.maizuo.com/usr/movie/db17b718a735211d4793874619dedc4a.jpg",
+                "actors": [{
+                        "name": "林永长",
+                        "role": "导演",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/95a7194d0763ecae7ef0225b073e46b1.jpg"
+                    },
+                    {
+                        "name": "李豪凌",
+                        "role": "导演",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/a55c5444e9a53ca4070c819916ac68e9.jpg"
+                    },
+                    {
+                        "name": "庄昊",
+                        "role": "导演",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/2e75b2c8bdfb5ce2715ecc1295135522.jpg"
+                    },
+                    {
+                        "name": "曲强",
+                        "role": "导演",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/d4ddbfee0645a84c209c3846a42e4041.jpg"
+                    },
+                    {
+                        "name": "钟鸣",
+                        "role": "导演",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/dfde89da24b0e194ae96f2123521155b.jpg"
+                    }
+                ],
+                "director": "林永长|李豪凌|庄昊|曲强|钟鸣|张喆|王利文",
+                "category": "剧情|动画",
+                "synopsis": "冬奥会即将举办，冰墩墩和雪容融在去参加奥运村的开村典礼时发生了一系列奇妙故事。小光头强与小熊大熊二一起帮助大家从暴风雪中脱险；九月偶然“捡到”冰墩墩，将其送回的同时收获完美假期；小虎妞在玩具的鼓励下勇敢面对挑战；大圣借“冰器”时遇到图图一起参加天宫冰雪大会。从孙悟空到非人哉，片中集合30+知名IP人物角色，唤醒五代人的童年回忆。",
+                "filmType": {
+                    "name": "2D",
+                    "value": 1
+                },
+                "nation": "中国大陆",
+                "language": "",
+                "videoId": "",
+                "premiereAt": 1645228800,
+                "timeType": 3,
+                "runtime": 90,
+                "grade": "7.3",
+                "item": {
+                    "name": "2D",
+                    "type": 1
+                },
+                "isPresale": true,
+                "isSale": false
+            }
+        ],
+        "total": 23
+    },
+    "msg": "ok"
+}
